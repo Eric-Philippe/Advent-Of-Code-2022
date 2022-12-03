@@ -1,0 +1,30 @@
+ECHO OFF
+:: GoToDirectory Day1
+SETLOCAL
+SET "DIR=Day1"
+SET "PY_CACHE=__pycache__"
+SET "PY_CACHE_PATH=%DIR%\%PY_CACHE%"
+IF EXIST "%PY_CACHE_PATH%" (
+    RMDIR /S /Q "%PY_CACHE_PATH%"
+    ECHO %PY_CACHE_PATH% removed
+)
+
+:: GoTo Directory Day2
+SETLOCAL
+SET "DIR=Day2"
+SET "NODE_MODULES=node_modules"
+SET "NODE_MODULES_PATH=%DIR%\%NODE_MODULES%"
+IF EXIST %NODE_MODULES_PATH% (
+    RMDIR /S /Q %NODE_MODULES_PATH%
+    ECHO %NODE_MODULES_PATH% removed
+)
+
+:: GoTo Directory Day3
+SETLOCAL
+SET "DIR=Day3"
+SET "OUT=out"
+SET "OUT_PATH=%DIR%\%OUT%"
+IF EXIST %OUT_PATH% (
+    RMDIR /S /Q %OUT_PATH%
+    ECHO %OUT_PATH% removed
+)

@@ -21,17 +21,23 @@ _My main goal here is just to follow regular training and practice and developpi
 
   Made with [Python](https://www.python.org/)
 
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day1)
+
   ***
 
 - [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)
 
   Made with [NodeJs](https://nodejs.org/en/) & [Mocha](https://mochajs.org/)
 
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day2)
+
   ***
 
 - [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3)
 
   Made with [Java](https://www.java.com/en/) & [JUnit5](https://junit.org/junit5/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day3)
 
   ***
 
