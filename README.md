@@ -3,11 +3,14 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Table of Contents of the puzzles](#table-of-contents-of-the-puzzles)
 - [Rights](#rights)
 
 ## Introduction
 
 This is a repository for my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) puzzles.
+
+<img class="main-webpage" src="./img/website.png" height= 20% width=70%>
 
 I'm using this as an opportunity to use every language I can think of to solve the puzzles. I'm also using this as an opportunity to learn more about the languages I'm using.
 
@@ -40,6 +43,18 @@ _My main goal here is just to follow regular training and practice and developpi
   [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day3)
 
   ***
+
+### Clear Commands
+
+```bash
+# Bash Command is available with the file "clear.sh"
+# You can use it with the command "sh clear.sh"
+```
+
+```cmd
+:: CMD Command is available with the file "clear.cmd"
+:: You can use it with the command ".\clear.cmd"
+```
 
 ## Rights
 
