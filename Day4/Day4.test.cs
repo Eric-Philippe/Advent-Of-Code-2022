@@ -1,7 +1,5 @@
 using UnitTesting;
 using System;
-using PartOne;
-using PartTwo;
 
 namespace Day4UnitTest
 {
