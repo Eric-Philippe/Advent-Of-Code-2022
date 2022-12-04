@@ -28,3 +28,18 @@ IF EXIST %OUT_PATH% (
     RMDIR /S /Q %OUT_PATH%
     ECHO %OUT_PATH% removed
 )
+
+:: GoTo Directory Day4
+SETLOCAL
+SET "DIR=Day4"
+SET "BIN=bin"
+SET "OBJ=obj"
+SET "BIN_PATH=%DIR%\%BIN%"
+IF EXIST %BIN_PATH% (
+    RMDIR /S /Q %BIN_PATH%
+    ECHO %BIN_PATH% removed
+)
+IF EXIST %DIR%\%OBJ% (
+    RMDIR /S /Q %DIR%\%OBJ%
+    ECHO %DIR%\%OBJ% removed
+)

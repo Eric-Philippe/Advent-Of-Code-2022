@@ -44,6 +44,8 @@ _My main goal here is just to follow regular training and practice and developpi
 
   ***
 
+- [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)
+
 ### Clear Commands
 
 ```bash
@@ -56,6 +58,6 @@ _My main goal here is just to follow regular training and practice and developpi
 :: You can use it with the command ".\clear.cmd"
 ```
 
-## Rights
+## Credits
 
 All rights are reserved by the creators of the [Advent of Code](https://adventofcode.com/2022) puzzles. The statements for the puzzles are copied from the Advent of Code website.
