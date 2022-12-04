@@ -46,6 +46,10 @@ _My main goal here is just to follow regular training and practice and developpi
 
 - [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)
 
+  Made with [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) & [NUnit](https://nunit.org/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day4)
+
 ### Clear Commands
 
 ```bash
