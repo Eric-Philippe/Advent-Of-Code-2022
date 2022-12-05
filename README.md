@@ -50,6 +50,14 @@ _My main goal here is just to follow regular training and practice and developpi
 
   [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day4)
 
+  ***
+
+- [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)
+
+  Made with [TypeScript](https://www.typescriptlang.org/) & [Jest](https://jestjs.io/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day5)
+
 ### Clear Commands
 
 ```bash
