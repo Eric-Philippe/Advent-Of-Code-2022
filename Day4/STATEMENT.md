@@ -52,7 +52,7 @@ In how many assignment pairs does one range fully contain the other?
 
 ---
 
-## Part Two ---
+## Part Two
 
 It seems like there is still quite a bit of duplicate work planned. Instead, the Elves would like to know the number of pairs that overlap at all.
 
