@@ -1,10 +1,10 @@
-# Advent of Code 2022
+# 🎄 Advent of Code 2022 🎁
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Table of Contents of the puzzles](#table-of-contents-of-the-puzzles)
-- [Rights](#rights)
+- 🎁 [Introduction](#introduction)
+- 🖥️ [Table of Contents of the puzzles](#table-of-contents-of-the-puzzles)
+- 🎄 [Rights](#rights)
 
 ## Introduction
 
