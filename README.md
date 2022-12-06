@@ -58,6 +58,16 @@ _My main goal here is just to follow regular training and practice and developpi
 
   [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day5)
 
+  ***
+
+- [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)
+
+  Made with [PHP](https://www.php.net/) & [PHPUnit](https://phpunit.de/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day6)
+
+  ***
+
 ### Clear Commands
 
 ```bash
