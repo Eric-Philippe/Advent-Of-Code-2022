@@ -1,14 +1,3 @@
-ECHO OFF
-:: GoToDirectory Day1
-SETLOCAL
-SET "DIR=Day1"
-SET "PY_CACHE=__pycache__"
-SET "PY_CACHE_PATH=%DIR%\%PY_CACHE%"
-IF EXIST "%PY_CACHE_PATH%" (
-    RMDIR /S /Q "%PY_CACHE_PATH%"
-    ECHO %PY_CACHE_PATH% removed
-)
-
 :: GoTo Directory Day2
 SETLOCAL
 SET "DIR=Day2"
@@ -69,3 +58,15 @@ IF EXIST %VENDOR_PATH% (
     RMDIR /S /Q %VENDOR_PATH%
     ECHO %VENDOR_PATH% removed
 )
+
+ECHO OFF
+:: GoToDirectory Day7
+SETLOCAL
+SET "DIR=Day7"
+SET "PY_CACHE=__pycache__"
+SET "PY_CACHE_PATH=%DIR%\%PY_CACHE%"
+IF EXIST "%PY_CACHE_PATH%" (
+    RMDIR /S /Q "%PY_CACHE_PATH%"
+    ECHO %PY_CACHE_PATH% removed
+)
+

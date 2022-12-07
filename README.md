@@ -68,6 +68,14 @@ _My main goal here is just to follow regular training and practice and developpi
 
   ***
 
+- [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7)
+
+  Made with [Python](https://www.python.org/) & [PyTest](https://docs.pytest.org/en/stable/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day7)
+
+  ***
+
 ### Clear Commands
 
 ```bash
