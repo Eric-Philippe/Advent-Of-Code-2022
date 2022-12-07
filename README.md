@@ -22,7 +22,7 @@ _My main goal here is just to follow regular training and practice and developpi
 
 - [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)
 
-  Made with [Python](https://www.python.org/)
+  Made with [C++](https://www.cplusplus.com/) & [CppUnit](https://wiki.freedesktop.org/www/Software/cppunit/)
 
   [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day1)
 
