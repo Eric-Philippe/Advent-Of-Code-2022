@@ -84,6 +84,14 @@ _My main goal here is just to follow regular training and practice and developpi
 
   ***
 
+- [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)
+
+  Made with [Kotlin](https://kotlinlang.org/) & [JUnit5](https://junit.org/junit5/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day9)
+
+  ***
+
 ### Clear Commands
 
 ```bash
