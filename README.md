@@ -100,6 +100,12 @@ _My main goal here is just to follow regular training and practice and developpi
 
   ***
 
+- [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)
+
+  Made with [Go](https://golang.org/) & [GoTest](https://golang.org/pkg/testing/)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day11)
+
 ### Clear Commands
 
 ```bash
