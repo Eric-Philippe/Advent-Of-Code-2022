@@ -92,6 +92,14 @@ _My main goal here is just to follow regular training and practice and developpi
 
   ***
 
+- [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10)
+
+  Made with [Ruby](https://www.ruby-lang.org/en/) & [Test::Unit](https://ruby-doc.org/stdlib-2.7.0/libdoc/test/unit/rdoc/Test/Unit.html)
+
+  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day10)
+
+  ***
+
 ### Clear Commands
 
 ```bash
