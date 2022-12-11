@@ -18,93 +18,25 @@ I'm also using this as an opportunity to learn [Unit Testing](https://en.wikiped
 
 _My main goal here is just to follow regular training and practice and developping something else than applications (Bot, Website, Software, etc..)._
 
+---
+
 ## Table of Contents of the puzzles
 
-- [Day 1: Calorie Counting](https://adventofcode.com/2022/day/1)
+|                      Day                       |          Title          |                       Made With                       | Unit Test                                                                            | GitDir                                                                                     | Stars |
+| :--------------------------------------------: | :---------------------: | :---------------------------------------------------: | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ----- |
+|  [Day 1](https://adventofcode.com/2022/day/1)  |    Calorie Counting     |           [C++](https://www.cplusplus.com/)           | [CppUnit](https://wiki.freedesktop.orgwww/Software/cppunit/)                         | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day01%20[C++])         | ⭐⭐  |
+|  [Day 2](https://adventofcode.com/2022/day/2)  |   Rock Paper Scissors   |           [NodeJs](https://nodejs.org/en/)            | [Mocha](https://mochajs.org/)                                                        | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day02%20[Js])          | ⭐⭐  |
+|  [Day 3](https://adventofcode.com/2022/day/3)  | Rucksack Reorganization |           [Java](https://www.java.com/en/)            | [JUnit5](https://junit.org/junit5/)                                                  | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day03%20[Java])        | ⭐⭐  |
+|  [Day 4](https://adventofcode.com/2022/day/4)  |      Camp Cleanup       | [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) | [NUnit](https://nunit.org/)                                                          | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day04%20[C#])          | ⭐⭐  |
+|  [Day 5](https://adventofcode.com/2022/day/5)  |      Supply Stacks      |     [TypeScript](https://www.typescriptlang.org/)     | [Jest](https://jestjs.io/)                                                           | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day05%20[TypeScript])  | ⭐⭐  |
+|  [Day 6](https://adventofcode.com/2022/day/6)  |     Tuning Trouble      |              [PHP](https://www.php.net/)              | [PHPUnit](https://phpunit.de/)                                                       | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day06%20[PhP])         | ⭐⭐  |
+|  [Day 7](https://adventofcode.com/2022/day/7)  | No Space Left On Device |           [Python](https://www.python.org/)           | [PyTest](https://docs.pytest.org/en/stable/)                                         | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day07%20[Python])      | ⭐⭐  |
+|  [Day 8](https://adventofcode.com/2022/day/8)  |   Treetop Tree House    |            [Julia](https://julialang.org/)            | [Test](https://julialang.org/)                                                       | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day08%20[Julia])       | ⭐⭐  |
+|  [Day 9](https://adventofcode.com/2022/day/9)  |       Rope Bridge       |           [Kotlin](https://kotlinlang.org/)           | [JUnit5](https://junit.org/junit5/)                                                  | [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day09%20[Kotlin])      | ⭐⭐  |
+| [Day 10](https://adventofcode.com/2022/day/10) |    Cathode-Ray Tube     |         [Ruby](https://www.ruby-lang.org/en/)         | [Test::Unit](https://ruby-doc.org/stdlib-2.7.0/libdoc/test/unit/rdoc/Test/Unit.html) | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day10%20[Ruby]]) | ⭐⭐  |
+| [Day 11](https://adventofcode.com/2022/day/11) |  Monkey in the Middle   |               [Go](https://golang.org/)               | [GoTest](https://golang.org/pkg/testing/)                                            | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day11%20[Go])    | ⭐⭐  |
 
-  Made with [C++](https://www.cplusplus.com/) & [CppUnit](https://wiki.freedesktop.org/www/Software/cppunit/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day1)
-
-  ***
-
-- [Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)
-
-  Made with [NodeJs](https://nodejs.org/en/) & [Mocha](https://mochajs.org/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day2)
-
-  ***
-
-- [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3)
-
-  Made with [Java](https://www.java.com/en/) & [JUnit5](https://junit.org/junit5/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day3)
-
-  ***
-
-- [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)
-
-  Made with [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) & [NUnit](https://nunit.org/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day4)
-
-  ***
-
-- [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)
-
-  Made with [TypeScript](https://www.typescriptlang.org/) & [Jest](https://jestjs.io/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day5)
-
-  ***
-
-- [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)
-
-  Made with [PHP](https://www.php.net/) & [PHPUnit](https://phpunit.de/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day6)
-
-  ***
-
-- [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7)
-
-  Made with [Python](https://www.python.org/) & [PyTest](https://docs.pytest.org/en/stable/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day7)
-
-  ***
-
-- [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)
-
-  Made with [Julia](https://julialang.org/) & [Test](https://julialang.org/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day8)
-
-  ***
-
-- [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)
-
-  Made with [Kotlin](https://kotlinlang.org/) & [JUnit5](https://junit.org/junit5/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day9)
-
-  ***
-
-- [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10)
-
-  Made with [Ruby](https://www.ruby-lang.org/en/) & [Test::Unit](https://ruby-doc.org/stdlib-2.7.0/libdoc/test/unit/rdoc/Test/Unit.html)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day10)
-
-  ***
-
-- [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)
-
-  Made with [Go](https://golang.org/) & [GoTest](https://golang.org/pkg/testing/)
-
-  [GitDir](https://github.com/Eric-Philippe/Calendrier-IT/tree/master/Day11)
+---
 
 ### Clear Commands
 
