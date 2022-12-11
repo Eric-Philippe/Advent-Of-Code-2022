@@ -10,7 +10,7 @@
 
 This is a repository for my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) puzzles.
 
-<img class="main-webpage" src="./img/website.png" height= 20% width=70%>
+<img class="main-webpage" src="./img 🖼️/website.png" height= 20% width=70%>
 
 I'm using this as an opportunity to use every language I can think of to solve the puzzles. I'm also using this as an opportunity to learn more about the languages I'm using.
 
