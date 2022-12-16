@@ -8,7 +8,7 @@ import std.range;
 import std.array;
 import std.math;
 
-void runPartOne(string[] args)
+void runPartOne()
 {
     auto input = readText(args[1]).strip.split('\n');
 
