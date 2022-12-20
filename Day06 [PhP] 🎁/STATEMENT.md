@@ -1,5 +1,9 @@
 # Day 6: Tuning Trouble
 
+[Direct Link](https://adventofcode.com/2022/day/6)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 The preparations are finally complete; you and the Elves leave camp on foot and begin to make your way toward the star fruit grove.
 
 As you move through the dense undergrowth, one of the Elves gives you a handheld device. He says that it has many fancy features, but the most important one to set up right now is the communication system.
