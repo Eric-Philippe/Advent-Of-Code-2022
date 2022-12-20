@@ -1,5 +1,9 @@
 # Day 17: Pyroclastic Flow
 
+[Direct Link](https://adventofcode.com/2022/day/17)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 Your handheld device has located an alternative exit from the cave for you and the elephants. The ground is rumbling almost continuously now, but the strange valves bought you some time. It's definitely getting warmer in here, though.
 
 ---
