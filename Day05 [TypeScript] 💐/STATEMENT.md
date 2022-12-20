@@ -1,5 +1,9 @@
 # Day 5: Supply Stacks ---
 
+[Direct Link](https://adventofcode.com/2022/day/5)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 The expedition can depart as soon as the final supplies have been unloaded from the ships. Supplies are stored in stacks of marked crates, but because the needed supplies are buried under many other crates, the crates need to be rearranged.
 
 ---
