@@ -1,5 +1,9 @@
 # Day 2: Rock Paper Scissors ---
 
+[Direct Link](https://adventofcode.com/2022/day/2)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 The Elves begin to set up camp on the beach. To decide whose tent gets to be closest to the snack storage, a giant Rock Paper Scissors tournament is already in progress.
 
 Rock Paper Scissors is a game between two players. Each game contains many rounds; in each round, the players each simultaneously choose one of Rock, Paper, or Scissors using a hand shape. Then, a winner for that round is selected: Rock defeats Scissors, Scissors defeats Paper, and Paper defeats Rock. If both players choose the same shape, the round instead ends in a draw.
