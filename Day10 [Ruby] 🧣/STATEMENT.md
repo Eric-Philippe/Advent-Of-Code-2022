@@ -1,5 +1,9 @@
 # Day 10: Cathode-Ray Tube
 
+[Direct Link](https://adventofcode.com/2022/day/10)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 You avoid the ropes, plunge into the river, and swim to shore.
 
 The Elves yell something about meeting back up with them upriver, but the river is too loud to tell exactly what they're saying. They finish crossing the bridge and disappear from view.
