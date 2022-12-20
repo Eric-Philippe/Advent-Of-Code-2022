@@ -1,5 +1,9 @@
 # Day 8: Treetop Tree House
 
+[Direct Link](https://adventofcode.com/2022/day/18
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 The expedition comes across a peculiar patch of tall trees all planted carefully in a grid. The Elves explain that a previous expedition planted these trees as a reforestation effort. Now, they're curious if this would be a good location for a tree house.
 
 ---
