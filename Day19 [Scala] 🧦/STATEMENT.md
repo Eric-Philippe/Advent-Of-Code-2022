@@ -1,5 +1,9 @@
 # Day 19: Not Enough Minerals
 
+[Direct Link](https://adventofcode.com/2022/day/19)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 Your scans show that the lava did indeed form obsidian!
 
 The wind has changed direction enough to stop sending lava droplets toward you, so you and the elephants exit the cave. As you do, you notice a collection of geodes around the pond. Perhaps you could use the obsidian to create some geode-cracking robots and break them open?
