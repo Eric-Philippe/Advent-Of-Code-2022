@@ -1,5 +1,9 @@
 # Day 4: Camp Cleanup ---
 
+[Direct Link](https://adventofcode.com/2022/day/4)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 Space needs to be cleared before the last supplies can be unloaded from the ships, and so several Elves have been assigned the job of cleaning up sections of the camp. Every section has a unique ID number, and each Elf is assigned a range of section IDs.
 
 ---
