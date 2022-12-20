@@ -1,5 +1,9 @@
 # Day 7: No Space Left On Device ---
 
+[Direct Link](https://adventofcode.com/2022/day/7)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 You can hear birds chirping and raindrops hitting leaves as the expedition proceeds. Occasionally, you can even hear much louder sounds in the distance; how big do the animals get out here, anyway?
 
 ---
