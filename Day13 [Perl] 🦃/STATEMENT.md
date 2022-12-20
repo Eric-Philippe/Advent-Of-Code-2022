@@ -1,5 +1,9 @@
 # Day 13: Distress Signal
 
+[Direct Link](https://adventofcode.com/2022/day/13)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 You climb the hill and again try contacting the Elves. However, you instead receive a signal you weren't expecting: a distress signal.
 
 ---
