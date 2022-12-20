@@ -1,5 +1,9 @@
 # Day 3: Rucksack Reorganization ---
 
+[Direct Link](https://adventofcode.com/2022/day/3)
+All credits to [Eric Wastl](https://twitter.com/ericwastl)
+I do not own any of the content below.
+
 One Elf has the important job of loading all of the rucksacks with supplies for the jungle journey. Unfortunately, that Elf didn't quite follow the packing instructions, and so a few items now need to be rearranged.
 
 ---
