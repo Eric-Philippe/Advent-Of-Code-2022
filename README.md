@@ -1,5 +1,13 @@
 # 🎄 Advent of Code 2022 🎁
 
+<div align="center">
+    <img src="https://img.shields.io/badge/day%20📅-24-blue">
+    <img src="https://img.shields.io/badge/stars%20⭐-48/50-yellow">
+    <img src="https://img.shields.io/badge/days%20completed-24/25-red">
+</div>
+
+---
+
 ## Table of Contents
 
 - 🎁 [Introduction](#introduction)
