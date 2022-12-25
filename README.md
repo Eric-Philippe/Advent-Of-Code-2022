@@ -1,9 +1,13 @@
 # 🎄 Advent of Code 2022 🎁
 
 <div align="center">
+    <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
+    <p> </p>
+    <img src="https://img.shields.io/badge/State-Finished-green">
     <img src="https://img.shields.io/badge/Day%20📅-25-blue">
     <img src="https://img.shields.io/badge/Stars%20⭐-50/50-yellow">
     <img src="https://img.shields.io/badge/Days%20Completed-25/25-red">
+        <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
 </div>
 
 ---
@@ -12,7 +16,8 @@
 
 - 🎁 [Introduction](#introduction)
 - 🖥️ [Table of Contents of the puzzles](#table-of-contents-of-the-puzzles)
-- 🎄 [Rights](#rights)
+- 🏆 [Accomplishments](#accomplishments)
+- 🎄 [Credits](#credits)
 
 ## Introduction
 
@@ -56,7 +61,7 @@ _My main goal here is just to follow regular training and practice and developpi
 | [Day 22](https://adventofcode.com/2022/day/22) |        Monkey Map        |                                   <img src="https://skillicons.dev/icons?i=nim" style="height: 36px; "/>                                   | [Nim](https://nim-lang.org)                                                        | [Nim](https://nim-lang.org)                                                          | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day22%20[Nim]%20%F0%9F%8C%9F)              | ⭐⭐  |
 | [Day 23](https://adventofcode.com/2022/day/23) |    Unstable Diffusion    |                                 <img src="https://skillicons.dev/icons?i=elixir" style="height: 36px; "/>                                  | [Elixir](https://elixir-lang.org)                                                  | [ElixirUTest](https://elixir-lang.org)                                               | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day23%20[Elixir]%20%F0%9F%8D%B7)           | ⭐⭐  |
 | [Day 24](https://adventofcode.com/2022/day/24) |      Blizzard Basin      |                                  <img src="https://skillicons.dev/icons?i=dart" style="height: 36px; "/>                                   | [Dart](https://dart.dev)                                                           | [Dart](https://dart.dev)                                                             | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day24%20[Dart]%20%F0%9F%8E%B6)             | ⭐⭐  |
-| [Day 25](https://adventofcode.com/2022/day/25) |     Full of Hot Air      |     <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056626968210186340/camelia-logo.png" style="height: 36px; "/>     | [Raku]()                                                                           | [None]()                                                                             | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day24%20[Dart]%20%F0%9F%8E%B6)             | ⭐⭐  |
+| [Day 25](https://adventofcode.com/2022/day/25) |     Full of Hot Air      |     <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056626968210186340/camelia-logo.png" style="height: 36px; "/>     | [Raku]()                                                                           | [None]()                                                                             | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day25%20[Raku]%20%F0%9F%8D%AA)             | ⭐⭐  |
 
 ---
 
@@ -72,6 +77,20 @@ _My main goal here is just to follow regular training and practice and developpi
 :: You can use it with the command ".\clear.cmd"
 ```
 
+## Accomplishments
+
+I've submitted that repository to the [Advent of Code 2022](https://adventofcode.com/2022) reddit thread. I've been able to be elected as one of the 10 best repositories of the year. I'm very proud of that !
+Such a great success for my first year of participation.
+
+[Archive WebSite](https://www.reddit.com/r/adventofcode/comments/zur64s/introducing_your_aoc_2022_mistiltoe_elfucators/)
+_Hey Mama I'm here :D_
+
+<img src="https://cdn.discordapp.com/attachments/579303130886569984/1056635360370757702/image.png" style=" border-radius:30px" width=60%>
+
+I'm also proud of following the whole month of December with a daily commit !
+
 ## Credits
 
 All rights are reserved by the creators of the [Advent of Code](https://adventofcode.com/2022) puzzles. The statements for the puzzles are copied from the Advent of Code website.
+
+<img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
