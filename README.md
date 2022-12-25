@@ -1,9 +1,9 @@
 # 🎄 Advent of Code 2022 🎁
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Day%20📅-24-blue">
-    <img src="https://img.shields.io/badge/Stars%20⭐-48/50-yellow">
-    <img src="https://img.shields.io/badge/Days%20Completed-24/25-red">
+    <img src="https://img.shields.io/badge/Day%20📅-25-blue">
+    <img src="https://img.shields.io/badge/Stars%20⭐-50/50-yellow">
+    <img src="https://img.shields.io/badge/Days%20Completed-25/25-red">
 </div>
 
 ---
@@ -18,7 +18,7 @@
 
 This is a repository for my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) puzzles.
 
-<img class="main-webpage" src="./img 🖼️/website.png" height= 20% width=70%>
+<img class="main-webpage" src="https://cdn.discordapp.com/attachments/579303130886569984/1056626186903634030/image.png" height= 20% width=70% style="border-radius:25px">
 
 I'm using this as an opportunity to use every language I can think of to solve the puzzles. I'm also using this as an opportunity to learn more about the languages I'm using.
 
@@ -56,6 +56,7 @@ _My main goal here is just to follow regular training and practice and developpi
 | [Day 22](https://adventofcode.com/2022/day/22) |        Monkey Map        |                                   <img src="https://skillicons.dev/icons?i=nim" style="height: 36px; "/>                                   | [Nim](https://nim-lang.org)                                                        | [Nim](https://nim-lang.org)                                                          | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day22%20[Nim]%20%F0%9F%8C%9F)              | ⭐⭐  |
 | [Day 23](https://adventofcode.com/2022/day/23) |    Unstable Diffusion    |                                 <img src="https://skillicons.dev/icons?i=elixir" style="height: 36px; "/>                                  | [Elixir](https://elixir-lang.org)                                                  | [ElixirUTest](https://elixir-lang.org)                                               | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day23%20[Elixir]%20%F0%9F%8D%B7)           | ⭐⭐  |
 | [Day 24](https://adventofcode.com/2022/day/24) |      Blizzard Basin      |                                  <img src="https://skillicons.dev/icons?i=dart" style="height: 36px; "/>                                   | [Dart](https://dart.dev)                                                           | [Dart](https://dart.dev)                                                             | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day24%20[Dart]%20%F0%9F%8E%B6)             | ⭐⭐  |
+| [Day 25](https://adventofcode.com/2022/day/25) |     Full of Hot Air      |     <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056626968210186340/camelia-logo.png" style="height: 36px; "/>     | [Raku]()                                                                           | [None]()                                                                             | [GitDir](https://github.com/Eric-Philippe/Advent-Of-Code-2022/tree/master/Day24%20[Dart]%20%F0%9F%8E%B6)             | ⭐⭐  |
 
 ---
 

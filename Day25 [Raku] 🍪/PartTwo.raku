@@ -1,0 +1,1 @@
+sub runPartTwo ($inputs) { return 'There is no part two :(...' }
