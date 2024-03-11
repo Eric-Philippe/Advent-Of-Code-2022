@@ -1,13 +1,13 @@
 # 🎄 Advent of Code 2022 🎁
 
 <div align="center">
-    <img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_2.png" style=" border-radius:3px">
+    <img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_3.png" style=" border-radius:3px">
     <p> </p>
     <img src="https://img.shields.io/badge/State-Finished-green">
     <img src="https://img.shields.io/badge/Day%20📅-25-blue">
     <img src="https://img.shields.io/badge/Stars%20⭐-50/50-yellow">
     <img src="https://img.shields.io/badge/Days%20Completed-25/25-red">
-        <img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_2.png" style=" border-radius:3px">
+        <img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_3.png" style=" border-radius:3px">
 </div>
 
 ---
