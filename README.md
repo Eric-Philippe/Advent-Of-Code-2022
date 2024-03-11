@@ -1,13 +1,13 @@
 # 🎄 Advent of Code 2022 🎁
 
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
+    <img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_2.png" style=" border-radius:3px">
     <p> </p>
     <img src="https://img.shields.io/badge/State-Finished-green">
     <img src="https://img.shields.io/badge/Day%20📅-25-blue">
     <img src="https://img.shields.io/badge/Stars%20⭐-50/50-yellow">
     <img src="https://img.shields.io/badge/Days%20Completed-25/25-red">
-        <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
+        <img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_2.png" style=" border-radius:3px">
 </div>
 
 ---
@@ -85,12 +85,12 @@ Such a great success for my first year of participation.
 [Archive WebSite](https://www.reddit.com/r/adventofcode/comments/zur64s/introducing_your_aoc_2022_mistiltoe_elfucators/)
 _Hey Mama I'm here :D_
 
-<img src="https://cdn.discordapp.com/attachments/579303130886569984/1056635360370757702/image.png" style=" border-radius:30px" width=60%>
+
+<img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_2.png" style=" border-radius:30px" width=60%>
 
 I'm also proud of following the whole month of December with a daily commit !
 
 ## Credits
 
 All rights are reserved by the creators of the [Advent of Code](https://adventofcode.com/2022) puzzles. The statements for the puzzles are copied from the Advent of Code website.
-
-<img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
+<img src="https://github.com/Eric-Philippe/Advent-Of-Code-2022/blob/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc_3.png" style=" border-radius:3px">
