@@ -23,7 +23,7 @@
 
 This is a repository for my solutions to the [Advent of Code 2022](https://adventofcode.com/2022) puzzles.
 
-<img class="main-webpage" src="https://cdn.discordapp.com/attachments/579303130886569984/1056626186903634030/image.png" height= 20% width=70% style="border-radius:25px">
+<img class="main-webpage" src="https://raw.githubusercontent.com/Eric-Philippe/Advent-Of-Code-2022/master/img%20%F0%9F%96%BC%EF%B8%8F/aoc.png" height= 20% width=70% style="border-radius:25px">
 
 I'm using this as an opportunity to use every language I can think of to solve the puzzles. I'm also using this as an opportunity to learn more about the languages I'm using.
 
